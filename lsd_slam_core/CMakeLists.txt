@@ -18,7 +18,7 @@ find_package(catkin REQUIRED COMPONENTS
   rosbag
 )
 
-find_package(Eigen REQUIRED)
+find_package(Eigen3 REQUIRED)
 find_package(X11 REQUIRED)
 include(cmake/FindG2O.cmake)
 include(cmake/FindSuiteParse.cmake)
