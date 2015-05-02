@@ -24,7 +24,7 @@
 #include <Eigen/Core>
 
 #include "QGLViewer/qglviewer.h"
-#include "lsd_slam_viewer/keyframeMsg.h"
+#include <lsd_slam_viewer/keyframeMsg.h>
 #include "sophus/sim3.hpp"
 
 #include <sstream>

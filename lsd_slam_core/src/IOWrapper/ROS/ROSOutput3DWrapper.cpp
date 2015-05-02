@@ -25,8 +25,8 @@
 
 
 #include "std_msgs/Float32MultiArray.h"
-#include "lsd_slam_viewer/keyframeGraphMsg.h"
-#include "lsd_slam_viewer/keyframeMsg.h"
+#include <lsd_slam_viewer/keyframeGraphMsg.h>
+#include <lsd_slam_viewer/keyframeMsg.h>
 
 #include "DataStructures/Frame.h"
 #include "GlobalMapping/KeyFrameGraph.h"
